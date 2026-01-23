@@ -45,3 +45,4 @@ As the team leader, my responsibilities included:
 - All documents were written in English as required.
 - No coding was required for this assignment.
 
+Due to time constraints, the team leader ensured all remaining tasks were completed before the deadline.
