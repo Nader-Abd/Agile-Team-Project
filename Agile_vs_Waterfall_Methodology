@@ -1,0 +1,80 @@
+Introduction
+Software development methodologies are essential frameworks that guide teams in planning, executing, and
+delivering projects. Among the most widely adopted methodologies are Agile and Waterfall. These two
+approaches differ in philosophy, workflow, flexibility, and adaptability to changes. While Waterfall is traditional
+and linear, Agile is iterative, collaborative, and highly adaptive. Understanding the strengths and limitations of
+each approach is crucial for selecting the right methodology based on project requirements, complexity, and
+stakeholder expectations.
+Why Agile?
+Agile methodology emerged as a solution to the challenges posed by traditional linear approaches,
+particularly in dynamic environments where project requirements may change rapidly.
+Iterative Development
+Agile projects are divided into small cycles called sprints, usually lasting 1–4 weeks. Each sprint delivers a
+working part of the system, allowing early feedback.
+Flexibility and Adaptability
+Agile welcomes changes even in late development stages without disrupting the project.
+Continuous Customer Involvement
+Stakeholders participate actively throughout the project to ensure alignment with needs.
+Early and Frequent Testing
+Testing runs parallel with development, reducing risks and technical debt.
+Enhanced Collaboration
+Daily Scrum meetings improve communication and transparency within the team.
+Value Delivery and Customer Satisfaction
+Agile ensures continuous delivery of valuable features.
+Example Use Case: A mobile app development company may release an MVP early and improve it through
+user feedback in subsequent sprints.
+Problems with Waterfall
+Waterfall is a traditional linear methodology where each phase must be completed before moving to the next:
+Requirements → Design → Implementation → Testing → Deployment.
+Rigid Structure
+Changes after phase completion are costly and difficult.
+Delayed Feedback
+Clients only see the product at the final stage.
+Late Detection of Errors
+Issues are discovered late, increasing cost and effort.
+Limited Stakeholder Involvement
+Customers are mostly involved at the beginning and end.
+High Risk in Dynamic Projects
+Unsuitable for projects with evolving requirements.
+Example Use Case: Government systems with fixed specifications often use Waterfall.
+Comparison: Agile vs Waterfall
+Feature
+Work Style
+Handling Changes
+Delivery
+Agile
+Iterative (Sprints)
+Easy and welcome
+Continuous
+Waterfall
+Sequential (Phases)
+Difficult and expensive
+Single final delivery
+Customer Role
+Error Detection
+Flexibility
+Best For
+Risk Management
+Documentation
+Continuous involvement
+Early and frequent
+High
+Dynamic projects
+Adaptive
+Lightweight
+Advantages and Disadvantages
+Agile Advantages- Rapid delivery- High adaptability- Strong collaboration- Early issue detection- High customer satisfaction
+Agile Disadvantages- Less predictability- Requires skilled teams- Minimal documentation
+Waterfall Advantages- Clear structure- Easy management- Detailed documentation- Predictable schedules
+Waterfall Disadvantages- Inflexible- Late error detection- Limited feedback- Poor fit for changing requirements
+Conclusion
+Limited involvement
+Late
+Low
+Stable requirements
+High risk if changes occur
+Detailed
+Agile is well suited for modern, fast-changing projects that require flexibility, innovation, and continuous
+feedback. Waterfall remains effective for projects with well-defined and stable requirements. Choosing the
+appropriate methodology depends on project goals, complexity, risk tolerance, and stakeholder expectations.
+Many organizations adopt hybrid approaches to combine the strengths of both methodologies.
